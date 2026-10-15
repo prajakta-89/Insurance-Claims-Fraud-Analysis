@@ -30,6 +30,10 @@ The objective of this project is to:
 
 ### Overview Dashboard
 
+<p>
+  <img src="Screanshots/Overview.png" width="800"/>
+</p>
+
 ![Overview Dashboard](Screanshots/Overview.png)
 
 ### Fraud & Claims Dashboard
