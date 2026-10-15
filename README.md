@@ -204,11 +204,14 @@ The analysis helps the insurance company:
 
 ### Overview Dashboard
 
-![Overview Dashboard](Screenshots/overview_dashboard.png)
+![Overview Dashboard](Screenshots/Overview.png)
 
 ### Fraud & Claims Dashboard
 
-![Fraud & Claims Dashboard](Screenshots/fraud_claims_dashboard.png)
+![Fraud & Claims Dashboard](Screenshots/Fraud_Claims.png)
+
+### Business Insights Dashboard
+![Fraud & Claims Dashboard](Screenshots/Business_Insights.png)
 
 
 ## 📁 Project Structure
@@ -226,6 +229,7 @@ insurance-claims-fraud-analysis-powerbi/
 │   ├── overview_dashboard.png
 │   └── fraud_claims_dashboard.png
 │
+├── Insurance_Claims_Fraud_Analysis_Project_Report
 ├── README.md
 └── .gitignore
 ```
