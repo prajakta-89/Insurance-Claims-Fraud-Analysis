@@ -26,6 +26,19 @@ The objective of this project is to:
 - Provide actionable business insights
 
 
+##  Dashboard Preview
+
+### Overview Dashboard
+
+![Overview Dashboard](Screanshots/Overview.png)
+
+### Fraud & Claims Dashboard
+
+![Fraud & Claims Dashboard](Screanshots/Fraud_&_Claims.png)
+
+### Business Insights Dashboard
+![Fraud & Claims Dashboard](Screanshots/Business_Insights.png)
+
 ##  Dataset
 
 The dataset contains:
@@ -200,21 +213,8 @@ The analysis helps the insurance company:
 - Prioritize suspicious or high-value claims for further investigation
 
 
-##  Dashboard Preview
 
-### Overview Dashboard
-
-![Overview Dashboard](Screenshots/Overview.png)
-
-### Fraud & Claims Dashboard
-
-![Fraud & Claims Dashboard](Screenshots/Fraud_Claims.png)
-
-### Business Insights Dashboard
-![Fraud & Claims Dashboard](Screenshots/Business_Insights.png)
-
-
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 insurance-claims-fraud-analysis-powerbi/
