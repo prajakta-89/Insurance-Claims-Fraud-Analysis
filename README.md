@@ -254,7 +254,7 @@ Through this project, I strengthened my practical skills in:
 - Fraud and financial analysis
 - Business-oriented storytelling with data
 
-## 👩‍💻 Author
+##  Author
 
 **Prajakta Bhondave**
 
