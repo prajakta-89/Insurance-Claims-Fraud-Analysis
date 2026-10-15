@@ -34,14 +34,16 @@ The objective of this project is to:
   <img src="Screanshots/Overview.png" width="800"/>
 </p>
 
-![Overview Dashboard](Screanshots/Overview.png)
-
 ### Fraud & Claims Dashboard
 
-![Fraud & Claims Dashboard](Screanshots/Fraud_&_Claims.png)
+<p>
+  <img src="Screanshots/Fraud_&_Claims.png" width="800"/>
+</p>
 
 ### Business Insights Dashboard
-![Fraud & Claims Dashboard](Screanshots/Business_Insights.png)
+<p>
+  <img src="Screanshots/Business_Insights.png" width="800"/>
+</p>
 
 ##  Dataset
 
